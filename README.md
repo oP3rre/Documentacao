@@ -1,4 +1,4 @@
-.0bvc# app-blog
+# app-blog
 
 Sistema de blog com área pública e painel administrativo
 
